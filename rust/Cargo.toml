@@ -1,0 +1,9 @@
+[package]
+
+name = "mine_sweeper"
+version = "0.0.1"
+authors = ["Adolfo Ochagavía <aochagavia92@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
+term-painter = "0.2.4"
