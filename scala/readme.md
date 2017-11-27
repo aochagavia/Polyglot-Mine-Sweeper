@@ -1,0 +1,6 @@
+Build instructions
+==================
+
+```
+sbt run
+```
